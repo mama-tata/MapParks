@@ -1,0 +1,1 @@
+var json__18 = {"type":"FeatureCollection","name":"_18","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"ID":"1","Name":"อุทยานแห่งชาติเขาสิบห้าชั้น","Y":13.1776,"X":102.003},"geometry":{"type":"Point","coordinates":[102.00299661360873,13.17760417]}}]}

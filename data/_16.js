@@ -1,0 +1,1 @@
+var json__16 = {"type":"FeatureCollection","name":"_16","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"ID":"1","Name":"อุทยานแห่งชาติเขาคิชฌกูฏ","Y":12.83923,"X":102.12106},"geometry":{"type":"Point","coordinates":[102.121061962527975,12.83922741]}}]}

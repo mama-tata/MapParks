@@ -1,0 +1,1 @@
+var json__17 = {"type":"FeatureCollection","name":"_17","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"ID":"1","Name":"อุทยานแห่งชาติน้ำตกพลิ้ว","Y":12.5297,"X":102.18441},"geometry":{"type":"Point","coordinates":[102.184408,12.529702]}}]}
